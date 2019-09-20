@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Ohio Archaeological Siteless Inventory!
 
-You can use the [editor on GitHub](https://github.com/ecolson1848/Ohio-Archaeological-Siteless-Inventory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This webpage is dedicated to recording and documenting archaeological data across the State of Ohio that otherwise would not be added to the Ohio Archaeological Database. These information include artifacts without site specific provenience, but still retain some level of context. Anything that cannot be pinned down to a specific County within the state should not be added to this inventory. This is a place for photographs, measurements, attributes, and other observations related to these data. All artifact photographs must include a scale and at least the county from which it was discovered. The better the context, the more useful the information, so if the artifact can be located within a specific section of a specific township within a county, these are ideal for the siteless inventory. However, if the artifact can be located to a specific "site" or pinpoint location on a map, these data should be added to the Ohio Archaeological Inventory managed by the Ohio Historic Preservation Office. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ecolson1848/Ohio-Archaeological-Siteless-Inventory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+At the moment, this inventory is currently managed by Eric Olson, M.A., adjunct professor at Cuyahoga Community College. If you would like to add to this inventory, please contact Eric at eric.olson@tri-c.edu, or visit the github repository at https://github.com/ecolson1848/Ohio-Archaeology. 
